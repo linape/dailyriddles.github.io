@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-
+ 
     // --- RIDDLE DATABASE ---
     const riddles = [
         { date: '2025-07-01', riddle: 'I have keys but no locks. I have space but no room. You can enter, but can’t go outside.', hint: 'You might be typing on it right now.', answer: 'keyboard' },
